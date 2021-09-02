@@ -1,0 +1,46 @@
+    .btn {
+        /* font-size: pxtoem(17, 16); */
+        display: inline-block;
+        padding: 0.74em 1.5em;
+        margin: 1.5rem 0 0;
+        color: black;
+        border-width: 0 0 0 0;
+        border-bottom: 5px solid;
+        text-transform: uppercase;
+        /* margin-right: 20rem; */
+    }
+    
+    .left {
+        padding: 24px;
+        padding-right: 19px;
+    }
+    
+    .t {
+        padding-right: 19px;
+    }
+    
+    .ttt {
+        padding-right: 20px;
+    }
+    
+    .right {
+        padding: 2px;
+        padding-right: 0px;
+    }
+    
+    .divider {
+        padding: 15px;
+    }
+    
+    .tttt {
+        margin-left: 30px;
+        padding: 15px
+    }
+    
+    .ttttt {
+        margin-left: 40px;
+    }
+    
+    .btn {
+        /* margin-right: 50px */
+    }

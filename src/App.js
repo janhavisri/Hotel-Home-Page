@@ -5,7 +5,7 @@ import Footer from './components/footer'
 import Content from './components/content';
 import Services from './components/services';
 import Gallery from './components/gallery';
-import About from './components/about';
+// import About from './components/about';
 import Contact from './components/contact';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         <Content></Content>
         <Services/>
         <Gallery></Gallery>  
-        <About></About>
+        {/* <About></About> */}
         <Contact></Contact>
         <Footer></Footer>
     </div>

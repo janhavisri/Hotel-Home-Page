@@ -12,7 +12,7 @@ function Content(){
     <div className="box-container">
 
         <div className="box">
-            <img src="standard.jpg" alt=""/>
+            <img src="https://th.bing.com/th/id/OIP.jx0DjLBIz5nTWFWUsfGXqwHaE8?pid=ImgDet&rs=1" alt=""/>
          <div className="contentone">
            <span><p>Standard Room</p></span>
             <div className="content">
